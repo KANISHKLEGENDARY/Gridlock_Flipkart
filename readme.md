@@ -1,6 +1,6 @@
 # Flipkart GRiD 7.0 — Traffic Demand Prediction
 
-![Leaderboard Score](https://img.shields.io/badge/Leaderboard%20Score-86.57%2F100-brightgreen)
+![Leaderboard Score](https://img.shields.io/badge/Leaderboard%20Score-87%2F100-brightgreen)
 ![Model](https://img.shields.io/badge/Model-XGBoost-blue)
 ![Language](https://img.shields.io/badge/Language-Python%203.12-yellow)
 ![Competition](https://img.shields.io/badge/Competition-Flipkart%20GRiD%207.0-orange)
